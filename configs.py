@@ -5,7 +5,7 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "28330815"))
+    API_ID = int(os.getenv("API_ID", "28330815")
     API_HASH = os.getenv("API_HASH", "24e97255f9a98171db75d657dc80b073")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "6697117545:AAEopy8oBl8Ruba48FHrwSntjutkrePKXI0")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebotak")
