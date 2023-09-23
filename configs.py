@@ -7,9 +7,9 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "28330815"))
     API_HASH = os.getenv("API_HASH", "24e97255f9a98171db75d657dc80b073")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "6547321409:AAHila2O_f7LUdhHpNqLziX94XH_zICYUhk")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "6697117545:AAEopy8oBl8Ruba48FHrwSntjutkrePKXI0")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebotak")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "mongodb+srv://akramkhan7340146997:4S8A60pfH6aHfC1o@cluster0.wbt1d5l.mongodb.net/?retryWrites=true&w=majority")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "--1001385971496")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbotak")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1829090215"))
@@ -29,7 +29,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001385971496")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001677979597")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://<akramkhan>:<akramkhan73>@cluster0.yjviija.mongodb.net/")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "1829090215"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
@@ -45,7 +45,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @CyniteSupport 🤖""" )
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ https://t.me/TONYSTARKonly 🤖""" )
     ABOUT_WATCH_TEXT = """
 ʜᴇʏ ʙᴜᴅᴅʏ, 
 
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs -  @pubglover55535"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
